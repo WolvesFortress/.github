@@ -1,7 +1,7 @@
 # WolvesFortress - Your Fantasy-MMORPG MCPE Server!
 ***WolvesFortress is looking for YOU!***
 
-We are an upcoming fantasy MMORPG realm with focus on immersive storytelling and player integration
+We are an upcoming fantasy MMORPG realm with focus on immersive storytelling and gameplay
 
 ## Roles
 - Content creator (Designing gameplay mechanics, organizing events, create images etc. for the website, write stories and dialogues for the NPCs and Quests)
