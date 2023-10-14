@@ -1,9 +1,19 @@
-# WolvesFortress - Your Fantasy-MMORPG MCPE Server!
-***WolvesFortress is looking for YOU!***
+# WolvesFortress - Adventure awaits where legends are born!
+[![Discord Invite Badge](https://dcbadge.vercel.app/api/server/tQwqNcNBwe?style=flat-square)](https://discord.gg/tQwqNcNBwe)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/@WolvesFortress)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@WolvesFortress)
+[![TikTok Badge](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://www.tiktok.com/@wolvesfortress)
+<!--[![Website Badge](https://img.shields.io/badge/🌐-Website-blue?style=flat-square&labelColor=lightblue)](https://server.wolvesfortress.de)//-->
 
-We are an upcoming fantasy MMORPG realm with focus on immersive storytelling and gameplay
+We are an upcoming fantasy RPG realm with focus on immersive storytelling and player integration.
+With our massive world, unique game mechanics, exciting enemies and quests, our plan is to become an eye-catching and fun server like no other!
 
-## Roles
+We are looking for nice people that help us improving and growing our server.
+You are kind, clever and creative? You love our work and server? You got knowledge about Minecraft addons or game development, programming efficient modular code structures or are a fantastic builder?
+
+You are also happily invited to join us to discuss and brainstorm each aspect of the server!
+
+## Roles - Join our team!
 **:date: Content creator:**
 The content creator will be responsible for designing and implementing exciting gameplay mechanics and organizing in-game events to keep players engaged. They will play a key role in creating a dynamic and immersive gaming experience for players.
 
